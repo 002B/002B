@@ -47,7 +47,5 @@ Outside of coding, I focus on precision and mechanics — whether it's in a cup 
 - **☕ Slowbar Coffee:** Passionate about the art of extraction.
   - *Gear:* V60 Drip, Flair Espresso, Moka Pot.
   - *Beans:* Obsessed with specialty single-origins (Ethiopia & Honduras).
-- **🔰 JDM Enthusiast:** 90s Car lover.
-  - *Dream Build:* Nissan Silvia S14 (White K'aero).
 
 ---
