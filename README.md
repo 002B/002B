@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pongsapak+👋;Aspiring+Full+Stack+Developer+🚀;MERN+Stack+%2B+.NET+Enthusiast;Algorithmic+Trader+(XAU%2FUSD)+📈;Coffee+Lover+(Slowbar+%26+Drip)+☕" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pongsapak+👋;Aspiring+Full+Stack+Developer+🚀;MERN+Stack;" alt="Typing SVG" />
   
   <br/>
 
@@ -18,13 +18,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a 3rd-year **Computer Science (CSI)** student at **Sripatum University**. I bridge the gap between modern web technologies and enterprise-level software, with a unique background in financial markets.
+I'm a 3rd-year **Computer Science (CSI)** student at **Sripatum University**. Looking for internship.
 
 - 🔭 **Core Stack:** **MERN (MongoDB, Express, React, Node.js)** — extensively used in university coursework with completed projects.
-- 🌱 **Current Focus:** Expanding into **C# .NET MVC** and transitioning to **TypeScript** for type-safe development.
-- 💡 **Special Interest:** **Algorithmic Trading** (MQL5/Python) for Gold (XAU/USD). *[Status: Paused for academic focus]*
-- 🍎 **Environment:** macOS Power User (Terminal/zsh/Apple Silicon).
-
+- 🌱 **Current Focus:** Expanding into **C# .NET MVC** and transitioning to **TypeScript** .
 ---
 
 ## 🛠️ Tech Stack
@@ -36,16 +33,5 @@ I'm a 3rd-year **Computer Science (CSI)** student at **Sripatum University**. I 
 | <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,dotnet" /> | <img src="https://skillicons.dev/icons?i=cs,python,git,postman" /> |
 
 </div>
-
----
-
-## ☕ Lifestyle & Hobbies
-
-Outside of coding, I focus on precision and mechanics — whether it's in a cup of coffee or an engine bay.
-
-- **📈 Algo Trading:** Experienced in backtesting strategies and broker mechanics (IUX/Exness).
-- **☕ Slowbar Coffee:** Passionate about the art of extraction.
-  - *Gear:* V60 Drip, Flair Espresso, Moka Pot.
-  - *Beans:* Obsessed with specialty single-origins (Ethiopia & Honduras).
 
 ---
