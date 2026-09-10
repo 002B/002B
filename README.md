@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a 3rd-year **Computer Science (CSI)** student at **Sripatum University**. Looking for internship.
+I'm a 4rd-year **Computer Science (CSI)** student at **Sripatum University**. Looking for internship.
 
 - 🔭 **Core Stack:** **MERN (MongoDB, Express, React, Node.js)** — extensively used in university coursework with completed projects.
 - 🌱 **Current Focus:** Expanding into **C# .NET MVC** and transitioning to **TypeScript** .
